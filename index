@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Js dayday up
+    </title>
+</head>
+
+<body>
+    <h1>Javscript:01 day</h1>
+    <h2>
+        Introduction
+    </h2>
+    <button onclick="alert('Welcome to the JS');">Click  Me</button>
+    <button onclick="alert('Happy new language!')">Best Wish</button>
+    <script>
+        console.log("Hello world")
+    </script>
+
+</body>
