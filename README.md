@@ -23,3 +23,10 @@ https://blog.csdn.net/weixin_42350212/article/details/81285210
 
 
 ![image](https://github.com/XianChen1996/Github_pictures/blob/main/js1.png)
+
+
+首先，我们应该创建一个扩展名为 .js 的外部 JavaScript 文件。所有以 .js 扩展名结尾的文件都是 JavaScript 文件。在您的项目目录中创建一个名为 Introduction.js 的文件，
+
+外部脚本——引用js
+
+![image](https://github.com/XianChen1996/Github_pictures/blob/main/js3.PNG)
