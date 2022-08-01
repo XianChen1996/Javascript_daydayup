@@ -30,3 +30,9 @@ https://blog.csdn.net/weixin_42350212/article/details/81285210
 外部脚本——引用js
 
 ![image](https://github.com/XianChen1996/Github_pictures/blob/main/js3.PNG)
+
+日语学习：
+https://qiita.com/baby-degu/items/1046763163bc794870ea
+1. console.log()
+このメソッドは主に、渡された値をコンソールに表示するために使用します。log()の引数は、String（文字列）、Array（配列）、Object（オブジェクト）、Boolean（真偽値）など、どのような型でも使用できます
+
