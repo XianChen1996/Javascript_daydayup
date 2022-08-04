@@ -36,3 +36,16 @@ https://qiita.com/baby-degu/items/1046763163bc794870ea
 1. console.log()
 このメソッドは主に、渡された値をコンソールに表示するために使用します。log()の引数は、String（文字列）、Array（配列）、Object（オブジェクト）、Boolean（真偽値）など、どのような型でも使用できます
 
+
+html 可以在vscode上测试
+
+
+Day 2： 利用好chrome，在上面调试写代码：
+F12 consle——>调试
+
+https://www.runoob.com/js/js-debugging.html
+
+回车
+
+
+
